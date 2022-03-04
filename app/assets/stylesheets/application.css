@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+.text1{
+  position: absolute;
+  top: 8vh;
+  left: 30vw;
+  color: black;
+font-size: 60px;}
+
+.bg-color{
+  background-color: lightgray;
+  min-height: 93.8vh;
+}
